@@ -7,3 +7,11 @@ Then the Qiskit library is used, is represent states of superposition with the s
 
 
 A simulation is carried out, with the state of the vector between 0 and 1 for 1000 trials and plotted as a graph.
+
+## Lab 2
+
+Define a set of quantum gates, which are the operations performed on the vectors.
+the vector is initialized to a state, a sequence of gates is set applied and the circuit is printed.
+Finial count for the state of vectors is calculated.
+Proof of Hadamard operation for r and s, R is the square root of NOT operation
+value of h = 1/sqrt(2)[1 1 1 -1], s = [1 0 0 e^i pie/2], r = [1 0 1 0]
